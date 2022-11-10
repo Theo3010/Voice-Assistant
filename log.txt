@@ -1,0 +1,11 @@
+[0m[12:41:20 -- VoiceAssistant.py] VoiceAssistant started [0m
+[1;33;40m[12:41:27 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:27 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:28 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:28 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:29 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:29 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:30 -- Automations.AutoLoL.py] League of Legends not found [0m
+[1;33;40m[12:41:30 -- Automations.AutoLoL.py] League of Legends not found [0m
+[0m[12:41:31 -- Automations.AutoLoL.py] Logging in to League of Legends EU Nord Øst [0m
+[0m[12:41:32 -- Automations.AutoLoL.py] Logged in to League of Legends eune [0m

@@ -1,0 +1,43 @@
+{
+    "Responses": {
+        "clock": {
+            "Funtion": "Get_clock()",
+            "respons": [
+                "klokken er lige nu <",
+                "<",
+                "klokken er <",
+                "lokaltiden er <"
+            ],
+            "Phrases": [
+                "hvad er klokken",
+                "klokken"
+            ]
+        },
+        "hej": {
+            "Funtion": "",
+            "respons": [
+                "hej"
+            ],
+            "Phrases": [
+                "hej"
+            ]
+        },
+        "open program": {
+            "Funtion": "Open_Program()",
+            "respons": [
+                "<"
+            ],
+            "Phrases": [
+                "\u00e5bn .+?"
+            ]
+        }
+    },
+    "Notes": {},
+    "passwords": {
+        "lol": {
+            "eune": "\u009a8\u008b&t\u0002\u0086\u0012\u00a42\u00bc[\u00cb^J\u001aq9xH<\u0005",
+            "euw": "\u00964\u00afJ\u00e3q\u00beJ\u00a97\u00df~\u00a9<\u00ad}k3\u009dmN\u0017",
+            "eune2": "\u00997\u00d4o\u00a1/\u00f2~\u00a97\u00c8g\u0099,A\u0011n6\u008b[h1"
+        }
+    }
+}

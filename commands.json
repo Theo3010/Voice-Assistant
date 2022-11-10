@@ -1,0 +1,96 @@
+[
+    {
+        "function": "self.AutomationLoL.login",
+        "keyword": [
+            ["\u00e5bn", "lol"],
+            ["\u00e5bn", "league of legends"],
+            ["open", "league of legends"],
+            ["open", "lol"],
+            ["login", "league of legends"],
+            ["login", "lol"]
+        ],
+        "args": [
+            "eu nord \u00F8st",
+            "eu west",
+            "eu nord \u00F8st 2",
+            "eu nord",
+            "eu \u00F8st",
+            "eu nord 2",
+            "eu \u00F8st 2"
+        ],
+        "argsToCommand": {
+            "eu nord \u00F8st": "eune",
+            "eu west": "euw",
+            "eu nord \u00F8st 2": "eune2",
+            "eu nord": "eune",
+            "eu \u00F8st": "eune",
+            "eu nord 2": "eune2",
+            "eu \u00F8st 2": "eune2"
+        },
+        "defualtArgs": "eu nord \u00F8st"
+    },
+    {
+        "function": "self.AutomationLoL.lol_auto_accept",
+        "keyword": [
+            ["lol", "accept"], 
+            ["league of legends", "accept"], 
+            ["lol", "acceptere"], 
+            ["league of legends", "acceptere"]
+        ],
+        "args": [
+            "start",
+            "stop"
+        ],
+        "argsToCommand": {
+            "start": "True",
+            "stop": "False"
+        },
+        "defualtArgs": "start"
+    },
+    {
+        "function": "self.AutomationDiscord.recejct_call",
+        "keyword": [
+            ["svar ikke", "opkald"],
+            ["tage ikke", "opkald"],
+            ["modtage ikke", "opkald"]
+        ],
+        "args": []
+    },
+    {
+        "function": "self.AutomationDiscord.end_call",
+        "keyword": [
+            ["læg på", "opkald"],
+            ["luk", "opkald"],
+            ["stop", "opkald"]
+        ],
+        "args": []
+    },
+    {
+        "function": "self.AutomationDiscord.answer_call",
+        "keyword": [
+            ["svar", "opkald"],
+            ["modtage", "opkald"],
+            ["tag", "opkald"]
+        ],
+        "args": []
+    },
+    {
+        "function": "self.AutomationDiscord.call",
+        "keyword": [
+            ["start", "opkald"],
+            ["ringe til"]
+        ],
+        "args": []
+    },
+    {
+        "function": "quit()",
+        "keyword": [
+            "quit voice assistant",
+            "exit voice assistant",
+            "quit stemmeassistent",
+            "luk stemmeassistent",
+            "stop stemmeassistent"
+        ],
+        "args": []
+    }
+]
